@@ -10,9 +10,9 @@ import model.User;
 
 public class DBController {
 	public User checkLogin(String email, String password) throws SQLException, ClassNotFoundException {
-		String jdbcURL = "jdbc:mysql://localhost:3306/cz3002";
-		String dbUser = "cz3002";
-		String dbPassword = "cz3002";
+		String jdbcURL = "jdbc:mysql://localhost:3306/memeDB";
+		String dbUser = "memedanks";
+		String dbPassword = "password";
 
 		Class.forName("com.mysql.jdbc.Driver");
 		Connection connection = DriverManager.getConnection(jdbcURL, dbUser, dbPassword);

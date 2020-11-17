@@ -8,10 +8,10 @@
 </head>
 <body>
     <div style="text-align: center">
-        <h1>Welcome to CZ3002 Admin Panel</h1>
+        <h1>Welcome to CZ3002 memedanks Admin Panel</h1>
         <b>${user.fullname} (${user.email})</b>
         <br><br>
-        <a href="/logout">Logout</a>
+        <a href="logout">Logout</a>
     </div>
 </body>
 </html>
