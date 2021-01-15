@@ -1,3 +1,6 @@
+# Repository has been updated here
+https://github.com/CZ3002-Group44/CZ3002_Assignment2
+
 # CZ3002 Advanced Software Engineer Assignment 2
 The repository contains the java webapp and sql scripts related to assignment 2.
 
